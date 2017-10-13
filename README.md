@@ -1,2 +1,2 @@
 # redux-demo
-how to user redux create a project
+how to use redux create a project
